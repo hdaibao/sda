@@ -1,4 +1,4 @@
-ines (99 sloc)  4.81 KB
+
 
 import pytesseract, cv2, requests, os, random, threading, re, sys, time, enchant, shutil, numpy
 from PIL import Image
